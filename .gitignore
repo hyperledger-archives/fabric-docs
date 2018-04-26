@@ -1,0 +1,22 @@
+# Local build binaries
+node-cli/node-cli
+*.pyc
+docs/build/*
+.idea
+*.iml
+.DS_Store
+tags
+.tags
+# Emacs backup files
+*~
+*#
+.#*
+# Vim file artifacts
+.*.sw*
+*.cov
+# Makefile dummy artifacts
+.*-dummy
+# tox
+.tox/
+# vscode settings
+.vscode
